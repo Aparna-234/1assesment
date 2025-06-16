@@ -18,5 +18,6 @@ print("Hello" + " First name:" + " Last name:" + "!" + " Welcome to the python p
 
 
 ##installation
-clone the repository:
+1) clone the repository:
+2) run the repository: 
 
