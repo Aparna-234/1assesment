@@ -10,7 +10,7 @@ print("Multiplication: \t" + str(a*b))
 print("Divivsion: \t" + str(a/b))
 
 
-input('First name:'  )
-input('Last name:'  )
+input('First name:' Jhanvi )
+input('Last name:' Verma )
 
 print("Hello" + " Jhanvi" + " Verma" + "!" + " Welcome" + " to" + " the" + " python" + " program.")
